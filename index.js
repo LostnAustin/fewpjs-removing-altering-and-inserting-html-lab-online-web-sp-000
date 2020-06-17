@@ -11,5 +11,5 @@ let ul = document.createElement('ul')
   }
 
 let element = document.querySelector('p#greeting');
-element.innerHTML = 'Hello, DOM!'
+element.innerHTML = 'Hello, DOM!';
 element.style.backgroundColor = '#27647B';
