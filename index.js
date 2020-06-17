@@ -18,7 +18,7 @@ main.remove()
 
 let newHeader = document.createElement('h1');
 newHeader.id = 'victory';
-newHeader.innerHTML = "Be like Water My Friend";
+newHeader.innerHTML = "Flatiron School is the champion!";
 
 
 
