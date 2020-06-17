@@ -23,6 +23,6 @@ document.body.appendChild(newHeader);
 //   ul.appendChild(li)
 // }
 
-element.appendChild(h1#victory)
+// element.appendChild(h1#victory)
 // ('h1#victory');
 // element.innerHTML = 'YOUR-NAME is the champion';
