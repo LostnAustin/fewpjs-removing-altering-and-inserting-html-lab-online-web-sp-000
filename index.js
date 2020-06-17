@@ -9,3 +9,7 @@ let ul = document.createElement('ul')
     li.innerHTML = (i + 1).toString()
     ul.appendChild(li)
   }
+
+let element = document.querySelector('p#greeting');
+element.innerHTML = 'Hello, DOM!'
+element.style.backgroundColor = '#27647B';
