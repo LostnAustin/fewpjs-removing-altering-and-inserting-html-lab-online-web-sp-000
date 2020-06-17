@@ -15,12 +15,13 @@
 // element.style.backgroundColor = '#27647B';
 main.remove()
 
-let newHeader = document.createElement('newHeader');
-for (let i = 0; i < 3; i++) {
-  let li = document.createElement('li')
-  li.innerHTML = (i + 1).toString()
-  ul.appendChild(li)
-}
+document.body.appendChild(newHeader);
+// let newHeader = document.createElement('newHeader');
+// for (let i = 0; i < 3; i++) {
+//   let li = document.createElement('li')
+//   li.innerHTML = (i + 1).toString()
+//   ul.appendChild(li)
+// }
 
 element.appendChild(h1#victory)
 // ('h1#victory');
