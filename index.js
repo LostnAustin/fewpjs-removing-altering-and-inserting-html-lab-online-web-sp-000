@@ -21,7 +21,7 @@ for (let i = 0; i < 3; i++) {
   li.innerHTML = (i + 1).toString()
   ul.appendChild(li)
 }
- 
+
 element.appendChild(newHeader)
 // ('h1#victory');
 // element.innerHTML = 'YOUR-NAME is the champion';
