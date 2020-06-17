@@ -15,5 +15,5 @@
 // element.style.backgroundColor = '#27647B';
 main.remove()
 
-let newHeader = document.getElementById('h1#victory');
+let newHeader = document.getElement('h1#victory');
 element.innerHTML = 'YOUR-NAME is the champion';
