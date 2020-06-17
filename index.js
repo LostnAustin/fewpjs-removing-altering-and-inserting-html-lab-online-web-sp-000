@@ -14,3 +14,6 @@
 // element.innerHTML = 'Hello, DOM!';
 // element.style.backgroundColor = '#27647B';
 main.remove()
+
+let newHeader = document.querySelector('h1#victory');
+element.innerHTML = 'YOUR-NAME is the champion';
