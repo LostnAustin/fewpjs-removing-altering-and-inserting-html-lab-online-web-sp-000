@@ -16,8 +16,12 @@
 main.remove()
 
 
-let newHeader = document.createElement('newHeader');
-document.body.appendChild(newHeader);
+let newHeader = document.createElement('h1');
+newHeader.id = 'victory';
+newHeader.innerHTML = "Be like Water My Friend";
+
+
+
 // for (let i = 0; i < 3; i++) {
 //   let li = document.createElement('li')
 //   li.innerHTML = (i + 1).toString()
