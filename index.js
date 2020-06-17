@@ -16,7 +16,7 @@
 main.remove()
 
 
-let newHeader = document.createElement('div');
+let newHeader = document.createElement('h1#victory');
 document.body.appendChild(newHeader);
 // for (let i = 0; i < 3; i++) {
 //   let li = document.createElement('li')
